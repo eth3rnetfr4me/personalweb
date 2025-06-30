@@ -1,0 +1,90 @@
+supercook.com|Supercook is a recipe search engine that lets you search by ingredients you have at home. Find thousands of recipes you can make right now with the ingredients you have available at home.
+bezier.method.ac|A game to help you master the pen tool
+playphrase.me|Type any quote, watch the scenes. Search millions of movie clips for language learning and cinema research.
+seatguru.com|The ultimate source for airplane seating, in-flight amenities, flights shopping and airline information.
+magichour.com|MagicHour - a Seattle based video production company established in 1992. Need a video? Chances are we’ve been there and shot that and we’ll bring that experience to you at a competitive price.
+gamma.app|Gamma is your free-to-use AI design partner for creating effortless presentations, websites, and more. No coding or design skills required.
+pudding.cool|The Pudding explains ideas with visual essays.
+darebee.com|2300+ home workouts, FREE workouts, exercise programs, monthly challenges and fitness guides.
+paperanimator.com|Apply paper effect to any photo in seconds. Customize paper animation and export with green sceen background.
+cheatography.com|Find thousands of incredible, original programming cheat sheets, all free to download.
+olmocr.allenai.org|olmOCR is an open-source tool for converting PDFs to text with high accuracy, preserving reading order and supporting tables, equations, and handwriting.
+thiings.co|A growing collection of 4000+ free 3D icons, generated with AI. Perfect for designers and creative projects.
+pixie.haus|AI pixel art generator for precise sprite creation. Experience quick outputs, automatic background removal, and seamless pixel handling.
+animejs.com|A fast and versatile JavaScript animation library
+staying.fun|专为 Python/JavaScript/C++ 开发者设计的实时可视化平台，核心功能包含：执行流动画演示、变量状态追踪、内存分配监控、代码优化建议。适合教学演示与项目调试。
+stirlingpdf.io|Stirling PDF
+reactbits.dev|An open source collection of high quality, animated, interactive & fully customizable React components for building stunning, memorable user interfaces.
+emergent.sh|Build real products with Emergent’s vibe-coding platform. Emergent AI creates production-ready applications from natural language—no developers required.
+pngimg.com|The largest FREE transparent PNG images clipart catalog for design and web design in best resolution and quality
+instructables.com|Instructables is a community for people who like to make things. Come explore, share, and make your next project with us!
+topoexport.com|Instantly download precise 2D maps and 3D models for architecture and urban planning. Formats: DXF, IFC, OBJ, STL.
+snazzymaps.com|Snazzy Maps is a repository of different color schemes for Google Maps aimed towards web designers and developers.
+lingohut.com|Discover the easiest way to learn a new language with LingoHut. Our free platform is focused on building your vocabulary and mastering proper pronunciation, making it effortless for you to improve your language skills. Learn from your native language the most essential 50 languages from around the world. LingoHut has everything you need to succeed. Start your language journey today and join millions of satisfied learners!
+kiddoworksheets.com|Kiddo Worksheets has a lot of free educational resources. Get free printable worksheets for Preschool, Kindergarten & Grades from 1 to 5 curriculum.
+huggingface.co|We’re on a journey to advance and democratize artificial intelligence through open source and open science.
+magiceraser.pro|With our magic eraser, you can easily remove unwanted objects, people, text, watermarks, and more from your photos online. Try MagicEraser.Pro for free today!
+stockimg.ai|Stockimg is an all in one design and content creation tool powered by AI. You can easily generate logo, illustration, wallpaper, poster and more.
+symbolab.com|Symbolab: equation search and math solver - solves algebra, trigonometry and calculus problems step by step
+radiocast.co|Discover and listen to radio stations from around the world. More than 8000 stations available.
+flourish.studio|Bring data to life with Flourish. Create data visualizations and interactive content – no coding needed. Engage, inspire, and tell your best data stories with ease.
+labs.google|Stay up to date with the latest Google AI experiments, innovative tools, and technology. Explore the future of AI responsibly with Google Labs.
+meshy.ai|Meshy is an AI 3D model generator that helps to effortlessly transform images and text into 3D models in seconds.
+myfridgefood.com|Easy recipes using ingredients you already have in the kitchen.
+readdy.ai|Build your dream websites by talking with AI - no drag-and-drop needed. When you’re happy, publish instantly, or export as clean code or Figma files. Perfect for small teams with limited design resources, or agencies looking to deliver 10x faster.
+recraft.ai|Premium image generation and editing tool. Store and share your own styles, create, fine-tune, upscale, and perfect your visuals.
+mult.dev|Travel map animations for video and stories
+manualslib.com|Search through 3.000.000 manuals online & and download pdf manuals.
+autodraw.com|Fast drawing for everyone. AutoDraw pairs machine learning with drawings from talented artists to help you draw stuff fast.
+remove.photos|Remove backgrounds from any image automatically in 3 seconds with just one click. Create transparent background, or change to new background. Fast, Free and No Signup!
+deepagent.abacus.ai|A god-tier general agent
+colorifyai.art|Create high-quality coloring sheets for free with Colorify AI coloring page generator. Spark your kids’ creativity with AI-designed coloring pages.
+schoolgoat.com|School GOAT will help with all parts of your school work: taking notes for you in class, solving homework problems, creating practice tests and more. Boost your grades and reduce stress with our automated note-taking service.
+codedex.io|Codédex is a new way to learn to code for kids and adults alike. Journey through the fantasy land of Python, HTML, CSS, or JavaScript, earn experience points (XP) to unlock new regions, and collect all the badges at your own pace. Start your adventure today.
+keybr.com|Teaching the world to type at the speed of thought! Typing lessons that work.
+mount-everest3d.com|Explore Mount Everest with our high-resolution 3D map and discover all routes for trekking and mountaineering.
+humanbenchmark.com|Brain games and competitions.
+oldmapsonline.org|The easy-to-use getaway to historical maps in libraries around the world.
+higgsfield.ai|The ultimate AI-powered camera control for creators by creators
+enzostvs-deepsite.hf.space|DeepSite is a web development tool that helps you build websites with AI, no code required. Let’s deploy your website with DeepSite and enjoy the magic of AI.
+formia.so|Stand out with a 3D logo.
+carcarekiosk.com|Video tutorials for DIY car maintenance with step-by-step directions for free how-to lifehacks for car maintenance. See how to change burnt out bulbs and more!
+virtualvacation.us|Explore the world/globe from home with virtualvacation.us! View live footage from different cities, or even take a guessing quiz!
+10015.io|All online tools you need in one box for free. Build anything online with “all-in-one toolbox”. All tools are easy-to-use, blazing fast & free.
+databutton.com|Your hunt for a CTO ends here. Team up with the world’s first reasoning AI developer to build your SaaS product or radically transform how you operate your business.
+productioncrate.com|Download Professional VFX, Motion Graphics, Music, SFX and 3D Models for your films & videos. Easy-to-Use. Browse 10,000 Assets - Try for Free!
+immersity.ai|The AI platform converting images & videos into immersive 3D experiences.
+tooooools.app|Apply lo-fi effects to your images and videos: dithering, halftone, gradients, patterns and more. Free, no sign-up required.
+wolframalpha.com|Wolfram|Alpha brings expert-level knowledge and capabilities to the broadest possible range of people—spanning all professions and education levels.
+typingclub.com|Learn touch typing online using TypingClub’s free typing courses. It includes 650 typing games, typing tests and videos.
+krea.ai|Krea makes generative AI intuitive. Generate, edit, and enhance images and videos using powerful AI for free.
+notta.ai|Nottaは最新のAI音声認識エンジンを搭載する高精度な文字起こしサービスです。リアルタイム文字起こしと翻訳機能を備え、また、1度に最長5時間までの音声ファイルを素早くテキスト化が可能。PCで音声変換や編集も気軽に行います。
+tabletopy.com|Create immersive environments for Dungeons and Dragons campaigns and other RPG games.
+geeksforgeeks.org|Your All-in-One Learning Portal. It contains well written, well thought and well explained computer science and programming articles, quizzes and practice/competitive programming/company interview Questions.
+loecsen.com|Loecsen is the method that most closely mimics natural language learning. It offers more intelligence, more freedom, and more efficiency.
+coddy.tech|Learn code in a fun, effective way with Coddy.Tech – enjoy mastering diverse programming languages daily and build skills with ease, all online!
+zoo.dev|Design StudioGet the full power of a professional CAD platform, enhanced with ML through Text-to-CAD. Zoo Design Studio for desktop is free to download and explore.
+watabou.github.io|Collection of free map generators for tabletop role-playing games and worldbuilding.
+edx.org|Discover thousands of offerings — from free courses to full degrees — delivered by world-class partners like Harvard, Google, Amazon and more.
+quickref.me|Share quick reference and cheat sheet for developers
+chefgpt.xyz|Never Worry About What’s for Dinner Again! Simply input the ingredients in your pantry and let ChefGPT generate a delicious recipe for you using AI.
+vidu.com|Vidu is an AI video generator known for its consistency and smooth 2D animation. Ideal for anime, ads, film, and more, it helps creators and teams effortlessly bring their ideas to life.
+musclewiki.com|MuscleWiki is a fitness app with a comprehensive exercise library that includes videos and written instructions for over 2000 exercises. With a simple and intuitive bodymap that guides you to exercises for a particular muscle, you can simplify your workout with exercises suitable for beginners, intermediate and advanced fitness enthusiasts.
+kittl.com|Kittl is the intuitive design platform for professionals, featuring real-time collaboration, advanced tools, and a vast library of fonts and assets. Design, deliver, and collaborate seamlessly.
+piccopilot.com|Free Remove Background, AI Background Generator, White & Black Backgrounds, Watermark Removal, AI Fashion Model, Translate Text from Images, and AI Ads Creative Generator.
+classcentral.com|Class Central aggregates courses from many providers to help you find the best courses on almost any subject, wherever they exist.
+chunkbase.com|A collection of apps to help you find the best Minecraft seeds, and locate biomes and structures in your world on an interactive map.
+iloveimg.com|iLoveIMG is the webapp that lets you modify images in seconds for free. Crop, resize, compress, convert, and more in just a few clicks!
+collov.ai|Transform empty spaces into stunning, market-ready homes with our cutting-edge virtual staging AI. Fast, cost-effective, and realistic virtual furniture staging for real estate.
+lottiefiles.com|Effortlessly bring the smallest, free, ready-to-use motion graphics for the web, app, social, and designs. Create, edit, test, collaborate, and ship Lottie animations in no time!
+unstuckstudy.com|Unstuck transforms your PDFs, PowerPoints, YouTube videos, lectures, textbook, and class notes into trusted study tools.
+scribehow.com|Scribe documents your processes for you. Build visual guides with text, links and screenshots instantly.
+open.edu|The Open University offers flexible full-time and part-time study, supported distance and open learning for undergraduate and postgraduate courses and qualifications.
+unscreen.com|Remove the background of any video - 100% automatically, online & free! Goodbye Greenscreen. Hello Unscreen.
+nim.video|Generate videos with state-of-the-art models, templates, and inspiration feed. Text-to-image, image-to-video, restyle, lip sync, upscale, and more
+versus.com|Versus is a global data-driven comparison platform, covering over 90 categories. Compare smartphones, cameras, headphones, graphics cards, and much more. With detailed tech specs, data visualizations, and price comparisons, Versus is the best product finder for a wide range of consumer electronics, from smartphones to PC hardware.
+seostudio.tools|SEOStudio is a cutting-edge, user-friendly online platform that offers comprehensive suite of free SEO, YouTube, Text, Programming, Webmaster, and Miscellaneous tools.
+create.xyz|Create is your AI agent for turning ideas into apps. Build sites, apps, tools, products and more just by describing what you want
+gitdocify.com|Instant, Professional, Code Documentation.Document your code in seconds with AI.
+sobrief.com|Read any book in 10 minutes. 100% free to read. Fiction and non-fiction summaries. Audio in 40 languages. World’s largest summary catalog. Read Top 100 Books of All Time. Free PDF/EPUB downloads. No sign-up needed.
+api.nasa.gov|You do not need to authenticate in order to explore the NASA data. However, if you will be intensively using the APIs to, say, support a mobile application, then you should sign up for a NASA developer key.
