@@ -1,7 +1,9 @@
 import * as React from 'react';
 import { NextAppProvider } from '@toolpad/core/nextjs';
 import DashboardIcon from '@mui/icons-material/Dashboard';
+import AccountCircleIcon from '@mui/icons-material/AccountCircle';
 import ShoppingCartIcon from '@mui/icons-material/ShoppingCart';
+import LanguageIcon from '@mui/icons-material/Language';
 import { AppRouterCacheProvider } from '@mui/material-nextjs/v15-appRouter';
 import type { Navigation } from '@toolpad/core/AppProvider';
 import LinearProgress from '@mui/material/LinearProgress';
@@ -15,12 +17,12 @@ const NAVIGATION: Navigation = [
   {
     segment: '',
     title: 'Introduction',
-    icon: <DashboardIcon />,
+    icon: <AccountCircleIcon />,
   },
   {
     segment: 'page2',
     title: 'Powerful Websites',
-    icon: <ShoppingCartIcon />,
+    icon: <LanguageIcon />,
   },
 ];
 
