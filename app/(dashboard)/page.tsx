@@ -58,9 +58,10 @@ export default function Home() {
   return (
     <Box
     sx={{
-      maxWidth: 'md',
+      maxWidth: { xs: '100%', md: 'md' },
       margin: '0 auto',
-      px: { xs: 2, md: 0 }
+      px: { xs: 2, md: 0 },
+      overflowX: 'hidden', // prevent horizontal scroll
     }}
     >
     <Box
@@ -68,19 +69,21 @@ export default function Home() {
       display: 'flex',
       flexDirection: 'column',
       alignItems: 'center',
-      my: 4
+      my: 4,
+      wordBreak: 'break-word', // help long text wrap nicely
+      overflowWrap: 'break-word',
     }}
     >
     <Avatar
     alt="eth3rnetfr4me"
     src="/eth.png"
     sx={{
-      width: 200,
-      height: 200,
+      width: { xs: 150, sm: 200 },
+      height: { xs: 150, sm: 200 },
       mb: 3,
       border: '4px solid',
       borderColor: 'primary.main',
-      boxShadow: 3
+      boxShadow: 3,
     }}
     />
 
@@ -97,9 +100,10 @@ export default function Home() {
           animation: 'gradientText 6s ease infinite',
           '@keyframes gradientText': {
             '0%': { backgroundPosition: '0% 50%' },
-            '50%': { backgroundPosition: '100% 50%' },
-            '100%': { backgroundPosition: '0% 50%' }
-          }
+          '50%': { backgroundPosition: '100% 50%' },
+          '100%': { backgroundPosition: '0% 50%' }
+          },
+          fontSize: { xs: '2rem', md: '3rem' } // responsive font size
     }}
     >
     eth3rnetfr4me
@@ -109,7 +113,7 @@ export default function Home() {
     variant="h5"
     color="text.secondary"
     gutterBottom
-    sx={{ textAlign: 'center' }}
+    sx={{ textAlign: 'center', fontSize: { xs: '1rem', md: '1.5rem' } }}
     >
     Computer Science Undergraduate | Backend Enthusiast
     </Typography>
@@ -121,7 +125,8 @@ export default function Home() {
       maxWidth: 600,
       textAlign: 'center',
       mt: 2,
-      color: 'text.primary'
+      color: 'text.primary',
+      fontSize: { xs: '0.9rem', md: '1.1rem' },
     }}
     >
     I’m passionate about building scalable backend systems and exploring the inner workings of networks and infrastructure.
@@ -134,8 +139,9 @@ export default function Home() {
     sx={{
       display: 'flex',
       justifyContent: 'center',
+      flexWrap: 'wrap', // allow buttons to wrap on small screens
       gap: 2,
-      mt: 4
+      mt: 4,
     }}
     >
     {socialLinks.map((social) => (
@@ -154,10 +160,12 @@ export default function Home() {
         borderRadius: 2,
         backgroundColor: social.color,
         color: social.textColor,
+        minWidth: 120, // consistent button size
+        fontSize: { xs: '0.75rem', md: '1rem' },
         '&:hover': {
           backgroundColor: social.color,
-          opacity: 0.8
-        }
+          opacity: 0.8,
+        },
       }}
       >
       {social.name}
@@ -166,18 +174,34 @@ export default function Home() {
     ))}
     </Box>
 
-    {/* New Typography below buttons */}
+    {/* Footer Text */}
     <Typography
     variant="body2"
     color="text.secondary"
     sx={{
       mt: 4,
-      textAlign: 'center'
+      textAlign: 'center',
+      fontSize: { xs: '0.75rem', md: '1rem' },
     }}
     >
     Thank you for visiting my page — feel free to reach out or collaborate!
     </Typography>
     </Box>
-    </Box>
+
+    {/* Keyframes for gradient animation */}
+    <style jsx global>{`
+      @keyframes gradientText {
+        0% {
+          background-position: 0% 50%;
+        }
+        50% {
+          background-position: 100% 50%;
+        }
+        100% {
+          background-position: 0% 50%;
+        }
+      }
+      `}</style>
+      </Box>
   );
 }
